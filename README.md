@@ -4,7 +4,7 @@ The GHRI Bot is a ***College inquiry Chatbot*** by using Python Programming lang
 
 [![Untitled.png](https://i.postimg.cc/RV39DLLq/Untitled.png)](https://postimg.cc/nCt6s75t)
 
-<img src="https://forthebadge.com/images/featured/featured-built-with-love.svg" width="200" align="center">   <img src="https://forthebadge.com/images/badges/made-with-python.svg" align="center">
+<img src="https://forthebadge.com/images/featured/featured-built-with-love.svg" width="200" align="center">   <img src="https://forthebadge.com/images/badges/made-with-python.svg" align="center">  <img src="https://img.shields.io/badge/ChatBot-0066FF.svg?style=for-the-badge&logo=ChatBot&logoColor=white" width="130" align="center">   
 
 
 ## Libraries -:
