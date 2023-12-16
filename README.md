@@ -1,21 +1,12 @@
 # GHRI-Bot
 
-The GHRI Bot is a College inquiry Chatbot by using Python Programming language. This is a command-line project that analyzes the user’s queries and understands the user's message.
+The GHRI Bot is a College inquiry Chatbot by using Python Programming language. This is a command-line project that analyzes the user’s queries and understands the user's message. At the most basic level, a chatbot is a computer program that simulates and processes human conversation (either written or spoken), allowing humans to interact with digital devices as if they were communicating with a real person.
 
 [![Untitled.png](https://i.postimg.cc/RV39DLLq/Untitled.png)](https://postimg.cc/nCt6s75t)
 
 ## Libraries:
 
-<pre class="shiki" style="background-color: #ffffff" height:"0" width:"1">
-	<code>
-				<span style="color: #CF222E">pip install chatterbot</span>
-	</code>
-	<button class="button-copy-code">
-	</button>
-</pre>
-		
-
-•	pip install chatterbot</br>
+• pip install chatterbot</br>
 • pip install chatterbot-corpus
 
 ## Scope:
