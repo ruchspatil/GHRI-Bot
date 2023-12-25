@@ -1,0 +1,53 @@
+{"intents": [
+    {"tag": "greeting",
+     "patterns": ["Hi there", "How are you", "Is anyone there?","Hey","Hola", "Hello", "Good day"],
+     "responses": ["Hello, thanks for asking", "Good to see you again", "Hi there, how can I help?"],
+     "context": [""]
+    },
+    {"tag": "goodbye",
+     "patterns": ["Bye", "See you later", "Goodbye", "Nice chatting to you, bye", "Till next time"],
+     "responses": ["See you!", "Have a nice day", "Bye! Come back again soon."],
+     "context": [""]
+    },
+    {"tag": "thanks",
+     "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me"],
+     "responses": ["Happy to help!", "Any time!", "My pleasure"],
+     "context": [""]
+    },
+    {"tag": "noanswer",
+     "patterns": [],
+     "responses": ["Sorry, can't understand you", "Please give me more info", "Not sure I understand"],
+     "context": [""]
+    },
+    {"tag": "options",
+     "patterns": ["How you could help me?", "What you can do?", "What help you provide?", "How you can be helpful?", "What support is offered"],
+     "responses": ["I can guide you through About, Courses, Campus Life, Academics, Examination"],
+     "context": [""]
+    },
+    {"tag": "about",
+     "patterns": ["More info about the college", "What is the address of your college?"],
+     "responses": ["The G H Raisoni Institute of Engineering & Business Management, Jalgaon, provides a perfect blend of wisdom and experience to young minds. Our meticulously designed education system inculcates compact-learning chapters, experts-led courses, competitive attitude, and sensitivity to tap innovation in the teaching approach, ensuring a comprehensive development of the students. Moreover, every nook and corner of the premises exhibits our bend towards state-of- art tools, advanced technologies, plethora of meaningful amenities, and finest faculty members. We comprehend the need of preeminence in higher education to build the future of tomorrow. Address: Khandesh Complex, 91,92, Mohadi Rd, Jalgaon, Maharashtra 425001"],
+     "context": [""]
+    },
+    {"tag": "courses",
+     "patterns": ["Which courses are you offering?"],
+     "responses": ["Business Management, Engineering, Computer Application" "You can see more about it on our website: https://ghribmjal.raisoni.net/"],
+     "context": [""]
+    },
+    {"tag": "campus_life",
+     "patterns": ["Campus Life" ],
+     "responses": ["Check it out here: https://ghribmjal.raisoni.net/student-life"],
+     "context": [""]
+    },
+    {"tag": "academics",
+     "patterns": ["Academics"],
+     "responses": ["Check it out here: https://ghribmjal.raisoni.net/academic-research"],
+     "context": [""]
+    },
+    {"tag": "examination",
+     "patterns": ["Examination "],
+     "responses": ["Check it out here: https://ghribmjal.raisoni.net/exam-cell"],
+     "context": []
+    }
+]
+}
